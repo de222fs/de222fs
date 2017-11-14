@@ -1,20 +1,13 @@
 ---
 layout: page
-title: About
+title: Om mig
 permalink: /about/
 ---
 
-Lite information om platformen som sidan körs på.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hejsan!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Jag är en kille på 28 år som bor i Norrköping. Har tidigare arbetat som IT-tekniker under lite över fem år men började studera hösten 2017. 
+Har varit intresserad av att programmera på en hobbynivå tidigare och valde av den anledningen att börja studera "Utvecklings och drift av mjukvarusystem" hos Linnéuniversitetet.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Ser fram emot att lära mig mycket de kommande åren!
