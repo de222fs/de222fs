@@ -1,0 +1,19 @@
+                            
+/* TEAM */
+
+Your title: David Ewens
+Site: de222fs@student.lnu.se
+Github: https://github.com/de222fs
+Location: Norrköping, Sweden
+
+/* THANKS */
+
+Name: Jekyll https://jekyllrb.com/
+Name: Minima https://github.com/jekyll/minima
+
+/* SITE */
+
+Last update: YYYY/MM/DD 
+Standards: HTML5, CSS3
+Components: Jekyll, Minima
+Software: Software used for the developmen
