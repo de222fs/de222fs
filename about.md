@@ -11,3 +11,5 @@ Jag är en kille på 28 år som bor i Norrköping. Har tidigare arbetat som IT-t
 Har varit intresserad av att programmera på en hobbynivå tidigare och valde av den anledningen att börja studera "Utvecklings och drift av mjukvarusystem" hos Linnéuniversitetet.
 
 Ser fram emot att lära mig mycket de kommande åren!
+
+![alt text](../assets/profil.jpg)
